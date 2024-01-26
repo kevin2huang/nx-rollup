@@ -1,0 +1,10 @@
+{
+  "name": "@monorepo-app/is-even",
+  "version": "0.0.1",
+  "dependencies": {
+    "@monorepo-app/is-odd": "*"
+  },
+  "type": "commonjs",
+  "main": "./index.cjs",
+  "module": "./index.js"
+}
